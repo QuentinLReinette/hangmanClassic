@@ -1,0 +1,1 @@
+{"Mot":"ecole","Vies":10,"Out":[101,95,111,95,101],"Essais":[[[111],[101]],null],"Ascii":"standard.txt"}
